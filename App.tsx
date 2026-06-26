@@ -12,7 +12,7 @@ const App: React.FC = () => {
     <main 
       className="relative min-h-screen w-full overflow-hidden flex flex-col items-center justify-center p-4 text-center"
       style={{
-        background: 'radial-gradient(ellipse at center, #1a2049 0%, #05010d 70%)'
+        background: '#05010d'
       }}
     >
       <div className="absolute top-[-20%] left-1/2 -translate-x-1/2 w-[150vw] h-[80vh] bg-indigo-900/40 rounded-full blur-[150px] opacity-60"></div>
